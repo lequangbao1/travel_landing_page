@@ -1,0 +1,91 @@
+
+🌟 COURSE RESOURCES 🌟
+
+
+Figma
+https://www.figma.com/
+
+Unsplash
+https://unsplash.com/
+
+Visual Studio Code on macOS
+https://code.visualstudio.com/docs/setup/mac
+
+Visual Studio Code
+https://code.visualstudio.com/
+
+Visual Studio Code Theme
+https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme
+
+Live Server
+https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+
+HTML Boilerplate
+https://marketplace.visualstudio.com/items?itemName=sidthesloth.html5-boilerplate
+
+Convert Pixels to REM
+https://www.ninjaunits.com/converters/pixels/pixels-rem/
+
+Hamburger Navbar Tutorial
+https://www.youtube.com/watch?v=WxQZsN6LICM
+
+CSS Autoprefixer
+https://autoprefixer.github.io/
+
+CSS Minifier
+https://www.minifier.org/
+
+
+🌟 TOP RECOMMENDED COURSES 🌟
+
+
+CSS
+
+
+(Paid) Build Responsive Real World Websites with HTML5 and CSS3
+https://www.udemy.com/design-and-develop-a-killer-website-with-html5-and-css3/
+
+
+(Free) CSS Crash Course For Absolute Beginners
+https://www.youtube.com/watch?v=yfoY53QXEnI
+
+
+CSS GRID
+
+
+(Free) Flexbox CSS In 20 Minutes
+https://www.youtube.com/watch?v=JJSoEo8JSnc
+
+
+(Free) A Complete Guide to Flexbox
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+
+CSS FLEXBOX
+
+
+(Free) CSS Grid Tutorial
+https://www.youtube.com/watch?v=x7tLPhnA06w&list=PL4cUxeGkcC9itC4TxYMzFCfveyutyPOCY
+
+
+(Free) A Complete Guide to Grid
+https://css-tricks.com/snippets/css/complete-guide-grid/
+
+
+JAVASCRIPT
+
+
+(Paid) The Complete JavaScript Course 2019: Build Real Projects!
+https://www.udemy.com/the-complete-javascript-course/
+
+
+(Free) Learn JavaScript - Full Course for Beginners
+https://www.youtube.com/watch?v=PkZNo7MFNFg
+
+REACT
+
+(PAID) The Complete React Developer Course (w/ Hooks and Redux)
+https://www.udemy.com/course/react-2nd-edition/
+
+PAID) Build an app with React, Redux and Firestore from scratch
+https://www.udemy.com/course/build-an-app-with-react-redux-and-firestore-from-scratch/
