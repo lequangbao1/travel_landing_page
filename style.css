@@ -27,7 +27,8 @@
 
 html, body {
     height: 100%;
-    overflow: auto;
+    overflow-y: hidden;
+    overflow-x: visible;
     font-size: 62.5%;
 }
 
@@ -242,6 +243,9 @@ nav {
 
 @media only screen and (max-width: 650px) {
 
+    .links a {
+        margin-right: 15px;
+    }
     .info {
         -ms-grid-column: 2;
         -ms-grid-column-span: 6;
